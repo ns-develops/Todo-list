@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] Deadline 30/3: Webpage responsive (Part activities: contact-form - add key and test on email, demo-page deployment from home, now shows 404, navbar needs grid development) <br>
+[ ] Deadline 30/3: Webpage responsive (Part activities: add key and test form, demo-page - shows 404 <br>
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
 
 TO DO
