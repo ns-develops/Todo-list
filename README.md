@@ -35,6 +35,8 @@ OTHER KNOWLEDGE <br>
 [ ] GPSTracker <br>
 [ ] Read SAFe agile <br>
 [ ] Github release for mobile applications <br>
+[ ] Figma professional <br>
+
 
 <br>
 
