@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] Deadline 3/4: Webpage responsive (AWS config if possible)
+[ ] Deadline 3/4: Webpage responsive (AWS config if possible, otherwise web3form or emailjs) <br>
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
 
 TO DO
