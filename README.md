@@ -2,7 +2,7 @@
 💕CURRENT💕 <br>
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
 
-PRIO
+PRIO<br>
 [ ] Deadline 13/4: React Crud - Prove working with API <br>
 [ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
@@ -12,14 +12,14 @@ PRIO
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
 
-EXTRA ONGOING
+EXTRA ONGOING<br>
 [ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs) <br>
 
 OTHER APPS <br>
 [ ] Webpage other content <br>
 [ ] Other own fun different languages <br>
 
-OTHER UX/UI DESIGN
+OTHER UX/UI DESIGN <br>
 [ ] Swift animated or rive extra <br>
 [ ] UX/UI design extra <br>
 
