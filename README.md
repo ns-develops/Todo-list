@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] Deadline 30/3: Webpage responsive (Part activities: add key and test form, demo-page - shows 404 <br>
+[ ] Deadline 3/4: Webpage responsive (AWS config if possible)
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
 
 TO DO
