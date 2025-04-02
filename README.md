@@ -4,7 +4,7 @@
 [ ] Deadline 13/4: React Crud - Prove working with API <br>
 
 EXTRA ONGOING<br>
-[ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs) <br>
+[ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about) <br>
 
 PRIO<br>
 [ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
