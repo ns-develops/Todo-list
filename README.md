@@ -38,6 +38,7 @@ OTHER KNOWLEDGE <br>
 [ ] Read SAFe agile <br>
 [ ] Github release for mobile applications <br>
 [ ] Figma professional <br>
+[ ] CNAMEFIL + DNS inställning<br>
 
 
 <br>
