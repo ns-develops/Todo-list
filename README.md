@@ -8,6 +8,7 @@ EXTRA ONGOING<br>
 [ ] React Crud - add endpoints/backend <br>
 
 PRIO<br>
+[ ] Portfolio - game / "buttons", programing theme inspire, animations, retro, demos, code playground or clean
 [ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] TaskManager - Next js project<br>
