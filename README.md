@@ -20,10 +20,6 @@ OTHER APPS <br>
 [ ] Webpage other content <br>
 [ ] Other own fun different languages <br>
 
-OTHER UX/UI DESIGN <br>
-[ ] Swift animated or rive extra <br>
-[ ] UX/UI design extra <br>
-
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
 [ ] Jenkins <br>
@@ -40,6 +36,9 @@ OTHER KNOWLEDGE <br>
 [ ] Github release for mobile applications <br>
 [ ] Figma professional <br>
 [ ] CNAMEFIL + DNS inställning<br>
+[ ] Own animate
+[ ] Swift animated or rive extra <br>
+[ ] UX/UI design extra <br>
 
 
 <br>
