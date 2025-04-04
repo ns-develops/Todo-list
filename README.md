@@ -5,7 +5,7 @@
 
 EXTRA ONGOING<br>
 [ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[ ] React Crud - add endpoints/backend <br>
+[ ] React Crud - add endpoints/backend + autentsiering logga in <br>
 
 PRIO<br>
 [ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
