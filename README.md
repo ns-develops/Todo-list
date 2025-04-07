@@ -45,4 +45,4 @@ OTHER KNOWLEDGE <br>
 
 EXTRA ONGOING<br>
 [ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[ ] React Crud - add endpoints/backend + autentsiering <br>
+[ ] React Crud - add endpoints/backend + autentsiering + Axios <br>
