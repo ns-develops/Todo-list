@@ -3,14 +3,10 @@
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
 [ ] Deadline 13/4: React Crud - Prove working with API <br>
 
-EXTRA ONGOING<br>
-[ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[ ] React Crud - add endpoints/backend + autentsiering <br>
-
 PRIO<br>
+[ ] TaskManager - Next js project<br>
 [ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
-[ ] TaskManager - Next js project<br>
 [ ] Native projects <br>
 [ ] Chatapp  <br>
 
@@ -46,3 +42,7 @@ OTHER KNOWLEDGE <br>
 [ ] Trainee spot
 
 🚀 15 MAY 2025 🚀 
+
+EXTRA ONGOING<br>
+[ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
+[ ] React Crud - add endpoints/backend + autentsiering <br>
