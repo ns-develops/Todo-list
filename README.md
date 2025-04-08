@@ -19,6 +19,10 @@ OTHER APPS <br>
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
 [ ] Jenkins <br>
+[ ] Angular 2+
+[ ] C# 
+[ ] .NET Core
+[ ] Grundkunskaper i SQL
 [ ] Hiltdagger <br>
 [ ] Coroutines and-Flow UseCases <br>
 [ ] HTML5 <br>
