@@ -51,5 +51,5 @@ EXTRA ONGOING<br>
 [X] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
 [X] Dogcare React Crud - add endpoints/backend + autentsiering + Axios <br>
 
-DONE
+DONE <br>
 [X] Other own fun different languages <br>
