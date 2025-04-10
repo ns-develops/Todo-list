@@ -5,7 +5,6 @@
 PRIO<br>
 [ ] TaskManager - Next js project<br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
-[ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] Native projects <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
@@ -14,7 +13,7 @@ OTHER APPS <br>
 [ ] Webpage other content <br>
 [ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
-
+[ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
