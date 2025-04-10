@@ -9,7 +9,7 @@ PRIO<br>
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
 
 OTHER APPS <br>
-[ ] TaskManager - Next js project<br> or 
+[ ] TaskManager - Next js project<br>
 [ ] Webpage other content <br>
 [ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
