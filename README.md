@@ -3,12 +3,13 @@
 [ ] Prove working with API <br>
 
 PRIO<br>
-[ ] TaskManager - Next js project<br> or [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
+[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Native projects <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
 
 OTHER APPS <br>
+[ ] TaskManager - Next js project<br> or 
 [ ] Webpage other content <br>
 [ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
