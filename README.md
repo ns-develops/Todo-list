@@ -1,7 +1,7 @@
 
 💕CURRENT💕 <br>
 [ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
-[ ] Deadline 13/4: React Crud - Prove working with API <br>
+[ ] Deadline 13/4: Prove working with API <br>
 
 PRIO<br>
 [ ] TaskManager - Next js project<br>
