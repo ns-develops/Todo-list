@@ -3,8 +3,7 @@
 [ ] Prove working with API <br>
 
 PRIO<br>
-[ ] TaskManager - Next js project<br>
-[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
+[ ] TaskManager - Next js project<br> or [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Native projects <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
