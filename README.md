@@ -1,20 +1,20 @@
 
 💕CURRENT💕 <br>
-[ ] Deadline 6/4: Foodorder app - System with full CRUD operations and backend <br>
-[ ] Deadline 13/4: Prove working with API <br>
+[ ] Prove working with API <br>
 
 PRIO<br>
 [ ] TaskManager - Next js project<br>
-[ ] Deadline 20/4: Webbshop / E-commerce with [ ] Redux Next js?  <br> 
+[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] Native projects <br>
-[ ] Chatapp  <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
 
 OTHER APPS <br>
 [ ] Webpage other content <br>
-[ ] Other own fun different languages <br>
+[ ] Chatapp  <br>
+[ ] Foodorder app - System with full CRUD operations and backend <br>
+
 
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
@@ -48,5 +48,8 @@ OTHER KNOWLEDGE <br>
 🚀 15 MAY 2025 🚀 
 
 EXTRA ONGOING<br>
-[ ] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[ ] React Crud - add endpoints/backend + autentsiering + Axios <br>
+[X] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
+[X] Dogcare React Crud - add endpoints/backend + autentsiering + Axios <br>
+
+DONE
+[X] Other own fun different languages <br>
