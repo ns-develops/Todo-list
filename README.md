@@ -1,10 +1,10 @@
 
 💕CURRENT💕 <br>
-[ ] TypeScript new game for future demo?
+[ ] TypeScript new game for future demo? <br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 
 PRIO<br>
-[ ] Native projects <br>
+[ ] Native projects [ ] Expo? <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
 
@@ -28,7 +28,6 @@ OTHER KNOWLEDGE <br>
 [ ] CSS3 <br>
 [ ] Compose <br>
 [ ] Wordpress <br>
-[ ] Expo <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
 [ ] Read SAFe agile <br>
