@@ -1,6 +1,5 @@
 
 💕CURRENT💕 <br>
-[ ] Prove working with API <br>
 
 PRIO<br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
@@ -47,8 +46,9 @@ OTHER KNOWLEDGE <br>
 🚀 15 MAY 2025 🚀 
 
 EXTRA ONGOING<br>
-[X] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[X] Dogcare React Crud - add endpoints/backend + autentsiering + Axios <br>
+[x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
+[x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios <br>
 
 DONE <br>
-[X] Other own fun different languages <br>
+[x] Other own fun different languages <br>
+[x] Prove working with API <br>
