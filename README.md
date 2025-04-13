@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] TypeScript new game for future demo? <br>
+[ ] TypeScript new game part for future demo? <br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 
 PRIO<br>
@@ -47,7 +47,7 @@ OTHER KNOWLEDGE <br>
 
 EXTRA ONGOING<br>
 [x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios <br>
+[x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
 
 DONE <br>
 [x] Other own fun different languages <br>
