@@ -1,5 +1,6 @@
 
 💕CURRENT💕 <br>
+[ ] TypeScript new game for future demo?
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 
 PRIO<br>
