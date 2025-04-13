@@ -21,7 +21,6 @@ OTHER KNOWLEDGE <br>
 [ ] Angular 2+ <br>
 [ ] C# <br>
 [ ] .NET Core <br>
-[ ] Grundkunskaper i SQL <br>
 [ ] Hiltdagger <br>
 [ ] Coroutines and-Flow UseCases <br>
 [ ] HTML5 <br>
