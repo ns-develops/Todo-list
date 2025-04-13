@@ -1,8 +1,8 @@
 
 💕CURRENT💕 <br>
+[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 
 PRIO<br>
-[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 [ ] Native projects <br>
 
 🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
