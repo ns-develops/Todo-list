@@ -23,19 +23,22 @@ OTHER APPS <br>
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] Sustainability / social responsible app
 
-
-OTHER KNOWLEDGE <br>
+PRIO<br>
+[ ] Wordpress <br>
+[ ] HTML5 <br>
+[ ] CSS3 <br>
+<br>
+[ ] Hiltdagger <br>
+[ ] Coroutines and-Flow UseCases <br>
+[ ] Compose <br>
+<br>
 [ ] Docker <br>
 [ ] Jenkins <br>
+
+OTHER KNOWLEDGE <br>
 [ ] Angular 2+ <br>
 [ ] C# <br>
 [ ] .NET Core <br>
-[ ] Hiltdagger <br>
-[ ] Coroutines and-Flow UseCases <br>
-[ ] HTML5 <br>
-[ ] CSS3 <br>
-[ ] Compose <br>
-[ ] Wordpress <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
 [ ] Read SAFe agile <br>
