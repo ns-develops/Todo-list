@@ -28,7 +28,6 @@ PRIO<br>
 [ ] HTML5 <br>
 [ ] CSS3 <br>
 [ ] CNAMEFIL + DNS inställning<br>
-
 <br>
 [ ] Hiltdagger <br>
 [ ] Coroutines and-Flow UseCases <br>
