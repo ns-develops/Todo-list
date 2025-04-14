@@ -37,6 +37,8 @@ OTHER KNOWLEDGE <br>
 [ ] Swift animated or rive extra <br>
 [ ] UX/UI design extra <br>
 [ ] SQL..<br>
+[ ] Vue.js <br>
+
 
 
 <br>
