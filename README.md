@@ -1,7 +1,7 @@
 
 💕CURRENT💕 <br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
-[ ] Native projects Movies shop [ ] Expo? <br>
+[ ] Native projects Movies store [ ] Expo? <br>
 [ ] TaskManager - Vue js project<br>
 
 🚀 CHALLENGE UNTIL 21 APRIL 2025 🚀   
