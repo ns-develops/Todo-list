@@ -37,20 +37,21 @@ PRIO<br>
 [ ] Jenkins <br>
 
 OTHER KNOWLEDGE <br>
-[ ] Angular 2+ <br>
+[ ] Github release for mobile applications <br>
+[ ] SQL..<br>
 [ ] C# <br>
 [ ] .NET Core <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
 [ ] Read SAFe agile <br>
-[ ] Github release for mobile applications <br>
+[ ] Angular 2+ <br>
+[ ] More backend <br>
+
+UX DESGN <br>
+[ ] UX/UI design extra <br>
 [ ] Figma professional <br>
 [ ] Own animate - Adobe? <br>
 [ ] Swift animated or rive extra <br>
-[ ] UX/UI design extra <br>
-[ ] SQL..<br>
-[ ] Vue.js <br>
-
 
 <br>
 
