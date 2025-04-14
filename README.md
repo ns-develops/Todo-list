@@ -1,6 +1,5 @@
 
 💕CURRENT💕 <br>
-[ ] TypeScript new game part for future demo? <br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
 
 PRIO<br>
@@ -33,7 +32,7 @@ OTHER KNOWLEDGE <br>
 [ ] Github release for mobile applications <br>
 [ ] Figma professional <br>
 [ ] CNAMEFIL + DNS inställning<br>
-[ ] Own animate <br>
+[ ] Own animate - Adobe? <br>
 [ ] Swift animated or rive extra <br>
 [ ] UX/UI design extra <br>
 [ ] SQL..<br>
@@ -54,3 +53,4 @@ EXTRA ONGOING<br>
 DONE <br>
 [x] Other own fun different languages <br>
 [x] Prove working with API <br>
+[x] TypeScript new game part for future demo? <br>
