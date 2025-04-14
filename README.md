@@ -47,7 +47,7 @@ OTHER KNOWLEDGE <br>
 [ ] Angular 2+ <br>
 [ ] More backend <br>
 
-UX DESGN <br>
+UX DESIGN <br>
 [ ] UX/UI design extra <br>
 [ ] Figma professional <br>
 [ ] Own animate - Adobe? <br>
