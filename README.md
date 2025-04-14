@@ -1,12 +1,16 @@
 
 💕CURRENT💕 <br>
 [ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
-
-PRIO<br>
 [ ] Native projects [ ] Expo? <br>
 
-🚀 CHALLENGE UNTIL 30 APRIL 2025 🚀   
+🚀 CHALLENGE UNTIL 21 APRIL 2025 🚀   
 
+[ ] Trainee spot
+
+🚀 30 APRIL 2025 🚀 
+<br>
+
+PRIO<br>
 OTHER APPS <br>
 [ ] TaskManager - Next js project<br>
 [ ] Webpage other content <br>
@@ -14,6 +18,7 @@ OTHER APPS <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] Sustainability / social responsible app
+
 
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
@@ -43,9 +48,6 @@ OTHER KNOWLEDGE <br>
 
 <br>
 
-[ ] Trainee spot
-
-🚀 15 MAY 2025 🚀 
 
 EXTRA ONGOING<br>
 [x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
