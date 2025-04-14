@@ -11,6 +11,10 @@
 <br>
 
 PRIO<br>
+EXTRA ONGOING<br>
+[x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
+[x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
+
 OTHER APPS <br>
 [ ] TaskManager - Next js project<br>
 [ ] Webpage other content <br>
@@ -45,13 +49,8 @@ OTHER KNOWLEDGE <br>
 [ ] Vue.js <br>
 
 
-
 <br>
 
-
-EXTRA ONGOING<br>
-[x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
-[x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
 
 DONE <br>
 [x] Other own fun different languages <br>
