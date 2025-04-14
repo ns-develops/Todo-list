@@ -27,6 +27,8 @@ PRIO<br>
 [ ] Wordpress <br>
 [ ] HTML5 <br>
 [ ] CSS3 <br>
+[ ] CNAMEFIL + DNS inställning<br>
+
 <br>
 [ ] Hiltdagger <br>
 [ ] Coroutines and-Flow UseCases <br>
@@ -44,7 +46,6 @@ OTHER KNOWLEDGE <br>
 [ ] Read SAFe agile <br>
 [ ] Github release for mobile applications <br>
 [ ] Figma professional <br>
-[ ] CNAMEFIL + DNS inställning<br>
 [ ] Own animate - Adobe? <br>
 [ ] Swift animated or rive extra <br>
 [ ] UX/UI design extra <br>
