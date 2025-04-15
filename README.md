@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] Webbshop / E-commerce with Next js?  <br> 
+[ ] Webbshop / E-commerce with Next js  <br> 
 [ ] Native projects [ ] Expo? <br>
 [ ] TaskManager - Vue js project<br>
 
