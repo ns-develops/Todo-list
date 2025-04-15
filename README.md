@@ -23,6 +23,7 @@ OTHER APPS <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
 [ ] Sustainability / social responsible app
+[ ] Details other
 
 PRIO<br>
 [ ] Wordpress <br>
