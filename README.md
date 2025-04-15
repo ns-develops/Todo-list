@@ -17,7 +17,7 @@ EXTRA ONGOING<br>
 [x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
 
 OTHER APPS <br>
-[ ] [ ] Webbshop / E-commerce with Redux
+[ ] [ ] Webbshop / E-commerce with Redux <br>
 [ ] Webpage other content <br>
 [ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
