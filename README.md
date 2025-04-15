@@ -1,7 +1,7 @@
 
 💕CURRENT💕 <br>
-[ ] Webbshop / E-commerce with [ ] Redux Next js?  <br> 
-[ ] Native projects Movies store [ ] Expo? <br>
+[ ] Webbshop / E-commerce with Next js?  <br> 
+[ ] Native projects [ ] Expo? <br>
 [ ] TaskManager - Vue js project<br>
 
 🚀 CHALLENGE UNTIL 21 APRIL 2025 🚀   
@@ -17,6 +17,7 @@ EXTRA ONGOING<br>
 [x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
 
 OTHER APPS <br>
+[ ] [ ] Webbshop / E-commerce with Redux
 [ ] Webpage other content <br>
 [ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
