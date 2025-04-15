@@ -49,6 +49,7 @@ OTHER KNOWLEDGE <br>
 [ ] Angular 2+ <br>
 [ ] More backend <br>
 [ ] Perfect detailed responsive / adaptable all languages <br>
+[ ] Jira <br<
 
 
 UX DESIGN <br>
