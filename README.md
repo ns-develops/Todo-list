@@ -47,6 +47,8 @@ OTHER KNOWLEDGE <br>
 [ ] Read SAFe agile <br>
 [ ] Angular 2+ <br>
 [ ] More backend <br>
+[ ] Perfect detailed responsive / adaptable all languages <br>
+
 
 UX DESIGN <br>
 [ ] UX/UI design extra <br>
