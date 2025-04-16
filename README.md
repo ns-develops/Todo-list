@@ -2,9 +2,9 @@
 
 | 🚀 To Do 🚀                        | 💕 CURRENT 💕               | Done                    |
 | ---------------------------- | --------------------------- | --------------------------- |
-|  [ ] E-commerce with Redux   |  [ ] Find Trainee spot  | [x] Task 6: Description 6 |
-|  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Task 7: Description 7 |
-|  [ ] Chatapp                 | [ ] Native + Expo project |                             |
+|  [ ] E-commerce with Redux   |  [ ] Find Trainee spot  | [x] Prove working with API       |
+|  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Typescript Memorygame     |
+|  [ ] Chatapp                 | [ ] Native + Expo project | x] Fun other                  |
 |  [ ] Social responsible app | [ ] TaskManager Vue.js       |                             |
 |  [ ] Time report app Zod    |                              |                             |
 |  [ ] Foodorder Crud   |                                    |                             |
@@ -51,10 +51,3 @@ UX DESIGN <br>
 [ ] Own animate - Adobe? <br>
 [ ] Swift animated or rive extra <br>
 
-<br>
-
-
-DONE <br>
-[x] Other own fun different languages <br>
-[x] Prove working with API <br>
-[x] TypeScript new game part for future demo? <br>
