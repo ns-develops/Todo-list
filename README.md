@@ -6,7 +6,8 @@
 |  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Task 7: Description 7 |
 |  [ ] Chatapp                 | [ ] Native + Expo project |                             |
 |  [ ] Social responsible app | [ ] TaskManager Vue.js       |                             |
-|  [ ] Time report app Zod    | [ ] TaskManager Vue.js       |                             |
+|  [ ] Time report app Zod    |                              |                             |
+|  [ ] Foodorder Crud   |                                    |                             |
 
 
 <br>
@@ -15,11 +16,6 @@ PRIO<br>
 EXTRA ONGOING<br>
 [x] Webpage responsive (AWS config if possible for contact-form, otherwise web3form or emailjs + change position business inquiry form showing after about, responsive small improvements <br>
 [x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
-
-OTHER APPS <br>
-[ ] Foodorder app - System with full CRUD operations and backend <br>
-[ ] Typescript project - Time report app, maybe [ ] ZOD <br>
-[ ] Details other
 
 PRIO<br>
 [ ] Wordpress <br>
@@ -47,8 +43,7 @@ OTHER KNOWLEDGE <br>
 [ ] Perfect detailed responsive / adaptable all languages <br>
 [ ] Jira <br>
 [ ] Unreal Engine 5
-
-
+[ ] Details other
 
 UX DESIGN <br>
 [ ] UX/UI design extra <br>
