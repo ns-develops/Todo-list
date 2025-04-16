@@ -1,4 +1,4 @@
-
+<img src="https://github.com/user-attachments/assets/5505b56c-d869-41e0-bafa-876659397163" width="300" />
 
 |  To Do 🚀                        | 💕 CURRENT 💕               | Done                    |
 | ---------------------------- | --------------------------- | --------------------------- |
@@ -11,9 +11,6 @@
 
 
 <br>
-
-<img src="https://github.com/user-attachments/assets/5505b56c-d869-41e0-bafa-876659397163" width="300" />
-
 
 PRIO<br>
 EXTRA ONGOING<br>
