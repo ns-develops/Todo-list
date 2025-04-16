@@ -42,8 +42,8 @@ OTHER KNOWLEDGE <br>
 [ ] More backend <br>
 [ ] Perfect detailed responsive / adaptable all languages <br>
 [ ] Jira <br>
-[ ] Unreal Engine 5
-[ ] Details other
+[ ] Unreal Engine 5 <br>
+[ ] Details other <br>
 
 UX DESIGN <br>
 [ ] UX/UI design extra <br>
