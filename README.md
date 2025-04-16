@@ -1,6 +1,6 @@
 
 
-| 🚀 To Do 🚀                        | 💕 CURRENT 💕               | Done                    |
+|  To Do 🚀                        | 💕 CURRENT 💕               | Done                    |
 | ---------------------------- | --------------------------- | --------------------------- |
 |  [ ] E-commerce with Redux   |  [ ] Find Trainee spot  | [x] Prove working with API       |
 |  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Typescript Memorygame     |
