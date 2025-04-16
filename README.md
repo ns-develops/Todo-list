@@ -2,24 +2,13 @@
 
 | 🚀 To Do 🚀                        | 💕 CURRENT 💕               | Done                    |
 | ---------------------------- | --------------------------- | --------------------------- |
-|  [ ] Find Trainee spot      |  [ ] Find Trainee spot  | [x] Task 6: Description 6 |
-|  [ ] E-commerce Next.js   |   [ ] E-commerce Next.js |  [x] Task 7: Description 7 |
-|  [ ] Native + Expo project  | [ ] Native + Expo project |                             |
-|  [ ] TaskManager Vue.js  | [ ] TaskManager Vue.js       |                             |
+|  [ ] E-commerce with Redux   |  [ ] Find Trainee spot  | [x] Task 6: Description 6 |
+|  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Task 7: Description 7 |
+|  [ ] Chatapp                 | [ ] Native + Expo project |                             |
+|  [ ] Social responsible app | [ ] TaskManager Vue.js       |                             |
+|  [ ] Time report app Zod    | [ ] TaskManager Vue.js       |                             |
 
 
-
-
-💕CURRENT💕 <br>
-[ ] Webbshop / E-commerce with Next js  <br> 
-[ ] Native projects [ ] Expo? <br>
-[ ] TaskManager - Vue js project<br>
-
-🚀 CHALLENGE UNTIL 21 APRIL 2025 🚀   
-
-[ ] Trainee spot
-
-🚀 30 APRIL 2025 🚀 
 <br>
 
 PRIO<br>
@@ -28,12 +17,8 @@ EXTRA ONGOING<br>
 [x] Dogcare React Crud - add endpoints/backend + autentsiering + Axios - complete buttons <br>
 
 OTHER APPS <br>
-[ ] [ ] Webbshop / E-commerce with Redux <br>
-[ ] Webpage other content <br>
-[ ] Chatapp  <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
 [ ] Typescript project - Time report app, maybe [ ] ZOD <br>
-[ ] Sustainability / social responsible app
 [ ] Details other
 
 PRIO<br>
