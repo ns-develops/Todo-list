@@ -1,6 +1,6 @@
 
 
-| To Do                        | In Progress                 | Done                        |
+| To Do                        | 💕 CURRENT 💕                 | Done                        |
 | ---------------------------- | --------------------------- | --------------------------- |
 | - [ ] Task 1: Description 1   | - [ ] Task 4: Description 4 | - [x] Task 6: Description 6 |
 | - [ ] Task 2: Description 2   | - [ ] Task 5: Description 5 | - [x] Task 7: Description 7 |
