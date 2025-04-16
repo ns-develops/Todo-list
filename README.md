@@ -4,7 +4,7 @@
 | ---------------------------- | --------------------------- | --------------------------- |
 |  [ ] E-commerce with Redux   |  [ ] Find Trainee spot  | [x] Prove working with API       |
 |  [ ] Webpage other content   |   [ ] E-commerce Next.js |  [x] Typescript Memorygame     |
-|  [ ] Chatapp                 | [ ] Native + Expo project | x] Fun other                  |
+|  [ ] Chatapp                 | [ ] Native + Expo project | [x] Fun other                  |
 |  [ ] Social responsible app | [ ] TaskManager Vue.js       |                             |
 |  [ ] Time report app Zod    |                              |                             |
 |  [ ] Foodorder Crud   |                                    |                             |
