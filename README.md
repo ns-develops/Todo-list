@@ -2,9 +2,11 @@
 
 | To Do 🚀                        | 💕 CURRENT 💕               | Done                        |
 | ---------------------------- | --------------------------- | --------------------------- |
-| - [ ] Task 1: Description 1   | - [ ] Task 4: Description 4 | - [x] Task 6: Description 6 |
-| - [ ] Task 2: Description 2   | - [ ] Task 5: Description 5 | - [x] Task 7: Description 7 |
-| - [ ] Task 3: Description 3   |                             |                             |
+| - [ ] Find Trainee spot      | - [ ] Task 4: Description 4 | - [x] Task 6: Description 6 |
+| - [ ] E-commerce Next.js   | - [ ] Task 5: Description 5 | - [x] Task 7: Description 7 |
+| - [ ] Native + Expo project  |                             |                             |
+| - [ ] TaskManager Vue.js  |                             |                             |
+
 
 
 
