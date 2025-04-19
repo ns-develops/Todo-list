@@ -48,8 +48,7 @@ OTHER KNOWLEDGE <br>
 [ ] MySQL, PostgreSQL <br>
 [ ] Drupal <br>
 [ ] CMS-plattformar <br>
-[ ] Node.js 
-[ ] Express
+[ ] Express <br>
 
 
 UX DESIGN <br>
