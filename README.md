@@ -44,6 +44,9 @@ OTHER KNOWLEDGE <br>
 [ ] Jira <br>
 [ ] Unreal Engine 5 <br>
 [ ] Details other <br>
+[ ] Node.js och PHP <br>
+[ ] MySQL, PostgreSQL <br>
+
 
 UX DESIGN <br>
 [ ] UX/UI design extra <br>
