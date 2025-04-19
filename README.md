@@ -47,6 +47,7 @@ OTHER KNOWLEDGE <br>
 [ ] Node.js och PHP <br>
 [ ] MySQL, PostgreSQL <br>
 [ ] Drupal <br>
+[ ] CMS-plattformar <br>
 
 
 UX DESIGN <br>
