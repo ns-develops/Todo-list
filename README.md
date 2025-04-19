@@ -46,6 +46,7 @@ OTHER KNOWLEDGE <br>
 [ ] Details other <br>
 [ ] Node.js och PHP <br>
 [ ] MySQL, PostgreSQL <br>
+[ ] Drupal <br>
 
 
 UX DESIGN <br>
